@@ -2,7 +2,7 @@
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=white)
 
-**csed-211 SMP directory by *hyunseong*, POSTECH 24**
+**csed-211 directory by *hyunseong*, POSTECH 24**
 
 ## Development Environment
 ```
